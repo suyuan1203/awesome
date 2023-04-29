@@ -7,5 +7,8 @@ bookmarks of awesome projects
 ## ERP
 [https://github.com/odoo/odoo](https://github.com/odoo/odoo) python构建的开源ERP
 
+## ChatGPT客户端
+[https://github.com/Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
 
+[https://github.com/mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
