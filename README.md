@@ -17,3 +17,5 @@ bookmarks of awesome projects
 ## 单点登录
 [https://www.okta.com/](https://www.okta.com/) 
 
+## web3写作
+[https://substack.com/](https://substack.com/) 
