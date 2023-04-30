@@ -23,3 +23,7 @@ bookmarks of awesome projects
 ## 在线设计
 [https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
+## chatgot embdding
+[https://app.copilothub.ai/home](https://app.copilothub.ai/home)
+
+
