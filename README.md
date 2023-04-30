@@ -26,5 +26,8 @@ bookmarks of awesome projects
 ## chatgpt embdding
 [https://app.copilothub.ai/home](https://app.copilothub.ai/home)
 
+## LLaMA API
+https://www.steamship.com/
+
 ## 客服
 [https://canny.io/](https://canny.io/)
