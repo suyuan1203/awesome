@@ -19,3 +19,7 @@ bookmarks of awesome projects
 
 ## web3写作
 [https://substack.com/](https://substack.com/) 
+
+## 在线设计
+[https://github.com/excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+
