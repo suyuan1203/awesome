@@ -34,3 +34,8 @@ https://www.steamship.com/
 
 ## Prompts
 https://promptbase.com/ Prompts市场
+
+## 多个AI模型比较
+https://gpttools.com/comparisontool
+
+
