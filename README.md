@@ -4,8 +4,10 @@ bookmarks of awesome projects
 ## 低代码平台
 [https://typedream.com/](https://typedream.com/) 一键创建网站，表格，网店
 
-## ERP
+## ERP & 会员
 [https://github.com/odoo/odoo](https://github.com/odoo/odoo) python构建的开源ERP
+
+https://www.lemonsqueezy.com/ 会员，推广返佣金 
 
 ## ChatGPT客户端
 [https://github.com/Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
