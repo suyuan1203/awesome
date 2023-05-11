@@ -40,4 +40,7 @@ https://promptbase.com/ Prompts市场
 ## 多个AI模型比较
 https://gpttools.com/comparisontool
 
+## flutter开发
+https://adapty.io/zh/blog/in-app-purchases-for-flutter-apps/ flutte 内购sdk
+
 
