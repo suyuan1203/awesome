@@ -16,6 +16,9 @@ https://www.lemonsqueezy.com/ 会员，推广返佣金
 
 [charming](https://apps.apple.com/cn/app/charming-%E8%8E%AB%E6%96%AF/id6446066593) mac app支持连接chatgpt
 
+## ChatGPT包装
+https://koala.sh/ 
+
 ## 单点登录
 [https://www.okta.com/](https://www.okta.com/) 
 
