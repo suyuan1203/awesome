@@ -49,4 +49,7 @@ https://adapty.io/zh/blog/in-app-purchases-for-flutter-apps/ flutte 内购sdk
 ## 二进制文件查询工具
 https://github.com/wader/fq
 
+## 开源大模型
+https://github.com/sambanova/bloomchat
+
 
