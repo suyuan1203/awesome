@@ -16,6 +16,8 @@ https://www.lemonsqueezy.com/ 会员，推广返佣金
 
 [charming](https://apps.apple.com/cn/app/charming-%E8%8E%AB%E6%96%AF/id6446066593) mac app支持连接chatgpt
 
+https://github.com/bravekingzhang/flutter_chat_box 基于flutter
+
 ## ChatGPT包装
 https://koala.sh/ 
 
