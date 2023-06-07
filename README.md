@@ -61,5 +61,10 @@ https://huggingface.co/chat huggingface提供的类似chatgpt的工具
 ## 小工具
 https://damngood.tools/ 
 
+## 特定领域的模型
+https://github.com/pengxiao-song/LawGPT
+
+
+
 
 
