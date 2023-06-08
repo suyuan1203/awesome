@@ -64,6 +64,8 @@ https://damngood.tools/
 ## 特定领域的模型
 https://github.com/pengxiao-song/LawGPT
 
+## 跨平台开发工具
+https://wails.io/ Build beautiful cross-platform applications using Go
 
 
 
