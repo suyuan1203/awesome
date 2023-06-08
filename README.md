@@ -21,6 +21,8 @@ https://github.com/bravekingzhang/flutter_chat_box 基于flutter
 ## ChatGPT包装
 https://koala.sh/ 
 
+https://www.promptboom.com/
+
 ## 单点登录
 [https://www.okta.com/](https://www.okta.com/) 
 
