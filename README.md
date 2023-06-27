@@ -272,6 +272,7 @@ https://d3js.org/ d3.js
 https://platform.openai.com/docs/api-reference   openai
 https://www.anthropic.com/product claude
 
-
+## youtube视频下载
+https://github.com/yt-dlp/yt-dlp
 
 
