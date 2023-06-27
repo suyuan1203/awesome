@@ -23,6 +23,8 @@ https://koala.sh/
 
 https://www.promptboom.com/
 
+https://github.com/LiLittleCat/awesome-free-chatgpt 免费chatgpt列表
+
 ## 单点登录
 [https://www.okta.com/](https://www.okta.com/) 
 
