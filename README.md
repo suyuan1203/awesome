@@ -81,4 +81,9 @@ https://d3js.org/ d3.js
 ## youtube视频下载
 https://github.com/yt-dlp/yt-dlp
 
+## 中文法律大模型
+https://github.com/CSHaitao/LexiLaw
+
+https://github.com/lvwzhen/law-cn-ai
+
 
