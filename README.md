@@ -89,4 +89,6 @@ https://github.com/lvwzhen/law-cn-ai
 ## 运维工具
 https://www.bt.cn/new/index.html 宝塔运维面板
 
+## AI生成图片
+https://pollinations.ai/
 
