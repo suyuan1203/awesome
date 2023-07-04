@@ -92,3 +92,5 @@ https://www.bt.cn/new/index.html 宝塔运维面板
 ## AI生成图片
 https://pollinations.ai/
 
+## Prompt分享
+https://sharegpt.com/
