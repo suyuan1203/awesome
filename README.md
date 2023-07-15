@@ -94,3 +94,6 @@ https://pollinations.ai/
 
 ## Prompt分享
 https://sharegpt.com/
+
+## 模拟器
+https://100r.co/site/uxn.html
