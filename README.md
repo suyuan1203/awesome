@@ -97,3 +97,6 @@ https://sharegpt.com/
 
 ## 模拟器
 https://100r.co/site/uxn.html
+
+## chatgpt微信bot
+https://github.com/zhayujie/chatgpt-on-wechat
