@@ -100,3 +100,6 @@ https://100r.co/site/uxn.html
 
 ## chatgpt微信bot
 https://github.com/zhayujie/chatgpt-on-wechat
+
+## AI生成游戏论文
+https://arxiv.org/pdf/2307.07924v2.pdf
