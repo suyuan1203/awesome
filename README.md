@@ -105,3 +105,6 @@ https://github.com/zhayujie/chatgpt-on-wechat
 
 ## AI生成游戏论文
 https://arxiv.org/pdf/2307.07924v2.pdf
+
+## 在线3维物体编辑器
+https://app.posemy.art/
