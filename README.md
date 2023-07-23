@@ -62,6 +62,8 @@ https://github.com/Ryan-yang125/ChatLLM-Web 可以在浏览器本地运行的LLM
 
 https://huggingface.co/chat huggingface提供的类似chatgpt的工具
 
+https://github.com/Mikubill/sd-webui-controlnet  stable diffusion webui
+
 ## 小工具
 https://damngood.tools/ 
 
