@@ -108,3 +108,6 @@ https://arxiv.org/pdf/2307.07924v2.pdf
 
 ## 在线3维物体编辑器
 https://app.posemy.art/
+
+## 自动部署app服务
+https://zeabur.com/ 
