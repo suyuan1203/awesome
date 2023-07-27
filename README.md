@@ -111,3 +111,6 @@ https://app.posemy.art/
 
 ## 自动部署app服务
 https://zeabur.com/ 
+
+## 自动视频编辑
+https://www.opus.pro/
