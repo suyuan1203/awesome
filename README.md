@@ -114,3 +114,6 @@ https://zeabur.com/
 
 ## 自动视频编辑
 https://www.opus.pro/
+
+## 微信开发
+https://github.com/eatmoreapple/openwechat 可以给个人微信发消息
