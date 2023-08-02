@@ -123,3 +123,8 @@ https://www.51mo.com/
 
 ## chatgpt桌面客户端
 https://www.wingly.ai/
+
+## 国内stable diffusion
+https://www.bigbigai.com/
+
+https://js.design/
