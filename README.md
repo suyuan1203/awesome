@@ -120,3 +120,6 @@ https://github.com/eatmoreapple/openwechat 可以给个人微信发消息
 
 ## 设计分享网站
 https://www.51mo.com/
+
+## chatgpt桌面客户端
+https://www.wingly.ai/
