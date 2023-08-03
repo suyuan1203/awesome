@@ -135,5 +135,8 @@ https://github.com/reflex-dev/reflex
 ## 文字生成音乐
 https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 
+## 本地运行llama2
+https://ollama.ai/blog/run-llama2-uncensored-locally
+
 
 
