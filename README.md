@@ -132,3 +132,8 @@ https://js.design/
 ## 只使用python开发前后端
 https://github.com/reflex-dev/reflex
 
+## 文字生成音乐
+https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
+
+
+
