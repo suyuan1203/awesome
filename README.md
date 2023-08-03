@@ -138,5 +138,8 @@ https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audi
 ## 本地运行llama2
 https://ollama.ai/blog/run-llama2-uncensored-locally
 
+## web可编程电脑
+https://oxocard.ch/
+
 
 
