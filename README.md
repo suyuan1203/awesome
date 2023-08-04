@@ -158,6 +158,9 @@ https://depal.xyz/
 ## web3 publishing
 https://mirror.xyz/
 
+## web3新闻
+https://bress.xyz/zh
+
 
 
 
