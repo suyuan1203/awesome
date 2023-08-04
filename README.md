@@ -18,6 +18,8 @@ https://www.lemonsqueezy.com/ 会员，推广返佣金
 
 https://github.com/bravekingzhang/flutter_chat_box 基于flutter
 
+https://open-gpt.app/zh 支持用户提交prompt
+
 ## ChatGPT包装
 https://koala.sh/ 
 
