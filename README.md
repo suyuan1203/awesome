@@ -141,5 +141,7 @@ https://ollama.ai/blog/run-llama2-uncensored-locally
 ## web可编程电脑
 https://oxocard.ch/
 
+## API调试工具
+https://apifox.com/#pricing
 
 
