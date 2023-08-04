@@ -144,4 +144,8 @@ https://oxocard.ch/
 ## API调试工具
 https://apifox.com/#pricing
 
+## 类型星球的订阅网站
+https://news.zhubai.love/
+
+
 
