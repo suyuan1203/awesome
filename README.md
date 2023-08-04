@@ -161,6 +161,9 @@ https://mirror.xyz/
 ## web3新闻
 https://bress.xyz/zh
 
+## CMS
+https://www.sanity.io/ 很有意思的项目，允许你编辑数据，然后对外提供API
+
 
 
 
