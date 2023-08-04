@@ -172,6 +172,10 @@ https://remix.run/
 ## 实时视频saas
 https://www.mux.com/real-time-video
 
+## python cms
+https://github.com/wagtail/wagtail
+
+
 
 
 
