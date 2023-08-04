@@ -152,6 +152,13 @@ https://news.zhubai.love/
 ## midjourney生成图片分享
 https://depal.xyz/
 
+## web3版的stripe
+https://depal.xyz/
+
+## web3 publishing
+https://mirror.xyz/
+
+
 
 
 
