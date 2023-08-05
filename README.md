@@ -175,6 +175,9 @@ https://www.mux.com/real-time-video
 ## python cms
 https://github.com/wagtail/wagtail
 
+## chatgpt应用
+https://doclime.com 分析pdf，然后针对问问题
+
 
 
 
