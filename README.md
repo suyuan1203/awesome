@@ -178,7 +178,7 @@ https://github.com/wagtail/wagtail
 ## chatgpt应用
 https://doclime.com 分析pdf，然后针对问问题
 
-
-
+## AI应用列表
+https://topapps.ai/ AI领域的app目录
 
 
